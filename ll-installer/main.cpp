@@ -31,7 +31,7 @@ int main(int argc, char **argv)
     QCommandLineParser parser;
 
     parser.addHelpOption();
-    parser.addPositionalArgument("app-id", "appID", "appId", "AppID", "AppId");
+    parser.addPositionalArgument("app-id", "appID", "appID");
 
     parser.parse(QCoreApplication::arguments());
 
