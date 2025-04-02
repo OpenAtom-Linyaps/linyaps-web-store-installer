@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 set(VERSION "1.0")
+set(QT_VERSION_MAJOR CACHE STRING "The major version of qt.")
 
 # configure debug mode and asan
 if (NOT CMAKE_BUILD_TYPE)
