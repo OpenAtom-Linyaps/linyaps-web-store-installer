@@ -1,4 +1,4 @@
-Source: linglong-store
+Source: linyaps-web-store-installer
 Section: admin
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@deepin.org>
@@ -9,7 +9,7 @@ Build-Depends:
  qt6-base-dev | qtbase5-dev,
  xdg-utils
 Standards-Version: 4.1.3
-Homepage: https://www.deepin.org
+Homepage: https://linyaps.org.cn
 
 Package: linglong-installer
 Architecture: any
