@@ -4,8 +4,7 @@
 Encoding=UTF-8
 Type=Application
 X-Created-By=Linglong
-Categories=chat;
-Icon=
+Icon=linyaps
 Exec=/usr/bin/ll-installer -u %u
 NoDisplay=true
 Name=Linglong Store Installer
