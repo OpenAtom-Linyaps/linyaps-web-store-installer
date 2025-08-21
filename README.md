@@ -1,5 +1,7 @@
 # linyaps-web-store-installer
 
+[![Packaging status](https://repology.org/badge/vertical-allrepos/linyaps-web-store-installer.svg)](https://repology.org/project/linyaps-web-store-installer/versions)
+
 `linyaps-web-store-installer` is a package installer for the [Linyaps Web store](https://store.linyaps.org.cn/).
 
 ## Getting help

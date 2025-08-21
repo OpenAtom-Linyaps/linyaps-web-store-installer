@@ -1,5 +1,7 @@
 # 玲珑网页版安装器
 
+[![Packaging status](https://repology.org/badge/vertical-allrepos/linyaps-web-store-installer.svg)](https://repology.org/project/linyaps-web-store-installer/versions)
+
 玲珑网页版安装器 (linyaps-web-store-installer) 是一款用于[如意玲珑应用商店](https://store.linyaps.org.cn/)的网页安装程序。
 
 ## 获取支持
