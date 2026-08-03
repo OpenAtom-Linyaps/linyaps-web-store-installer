@@ -12,6 +12,6 @@ Homepage: https://linyaps.org.cn
 
 Package: linglong-installer
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, linglong-bin
+Depends: ${shlibs:Depends}, ${misc:Depends}, linglong-bin, xdg-utils
 Description: Deepin sandbox with OCI standard.
   Deepin sandbox...
